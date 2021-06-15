@@ -13,7 +13,13 @@ function divide(n, m){
     console.log(quotient);
 }
 
+function multiply(num3,num4) {
+    let ans = num3 * num4;
+    console.log(ans);
+}
+
 
 add(2,4);
 subtract(2,4);
 divide(2,4);
+multiply(3,5);
