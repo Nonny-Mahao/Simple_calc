@@ -1,8 +1,12 @@
 # Simple_calc
-Created by Nonny and Thami
+## *Discription* : 
+This is a simple calculator project that performs the four basic operations namely :
+* addition
+* subtraction
+* multiplication
+* division
 
-Languages used: Javascript, html
+This project was built using **HTML** and **JavaScript**.
+## Tools used : *Visual Studio Code*
+### Contibutors : **Nonny** and **Thami**
 
-tools used: VS Code
-
-Discription: 
