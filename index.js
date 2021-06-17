@@ -1,21 +1,21 @@
 function add(num1,num2) {
 
 	let sum = num1 + num2;
-	console.log(sum);	
+	console.log(sum + " is the sum of adding " + num1 + " and " + num2);	
 }
 function subtract(x, y){
     let difference = x - y;
-    console.log(difference);
+    console.log(difference + " is the difference of " + x + " and " + y);
 }
 
 function divide(n, m){
     let quotient = n/m;
-    console.log(quotient);
+    console.log(quotient + " is the quotient of " + n +" and " + m);
 }
 
 function multiply(num3,num4) {
     let ans = num3 * num4;
-    console.log(ans);
+    console.log(ans + " is the product of " + num3 + " and " + num4);
 }
 
 
