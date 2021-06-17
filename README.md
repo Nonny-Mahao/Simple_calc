@@ -1,4 +1,7 @@
 # Simple_calc
+
+![Our calculator](calc.png "Simple calc")
+
 ## *Discription* : 
 This is a simple calculator project that performs the four basic operations namely :
 * addition
