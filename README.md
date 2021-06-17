@@ -38,4 +38,4 @@ Contributions are welcome. To contribute you can open a new issue or do a pull r
 ### Authors : **Nonny** and **Thami**
 
 ### Licence
-This project is [MIT] licensed.
+This project is [MIT](https://www.google.com) licensed.
