@@ -35,7 +35,7 @@ This project was built using **HTML** and **JavaScript**.
 Contributions are welcome. To contribute you can open a new issue or do a pull request.
 
 
-### Authors : **Nonny** and **Thami**
+### Authors : **[Nonny](https://github.com/Nonny-Mahao)** and **[Thami]https://github.com/ThamiMK**
 
 ### Licence
 This project is [MIT](https://www.google.com) licensed.
