@@ -32,11 +32,10 @@ This project was built using **HTML** and **JavaScript**.
 5. The results of the application will appear there.
 
 ### Contributions
-
-
-### Licence
-This project is MIT licensed.
+Contributions are welcome. To contribute you can open a new issue or do a pull request.
 
 
 ### Authors : **Nonny** and **Thami**
 
+### Licence
+This project is [MIT] licensed.
